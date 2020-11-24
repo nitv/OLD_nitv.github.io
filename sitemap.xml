@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://nitv.github.io/</loc>
     <lastmod>2020-11-23T23:20:59-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/first-post/</loc>
+    <loc>http://nitv.github.io/posts/first-post/</loc>
     <lastmod>2020-11-23T23:20:59-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://nitv.github.io/posts/</loc>
     <lastmod>2020-11-23T23:20:59-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/about/</loc>
+    <loc>http://nitv.github.io/posts/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/about_bkp/</loc>
+    <loc>http://nitv.github.io/posts/about_bkp/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://nitv.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/posts/contact/</loc>
+    <loc>http://nitv.github.io/posts/contact/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://nitv.github.io/tags/</loc>
   </url>
   
 </urlset>
